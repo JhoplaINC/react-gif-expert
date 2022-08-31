@@ -1,3 +1,3 @@
 # GifExpertApp
 
-## GifExpertApp udemy course
+GifExpertApp udemy course
